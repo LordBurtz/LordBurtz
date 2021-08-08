@@ -1,8 +1,4 @@
 <img src="https://github.com/LordBurtz/LordBurtz/blob/main/header.png" alt="introduction banner LordBurtz">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm LordBurtz aka Fingolfin a student bored enough to code </div>  
