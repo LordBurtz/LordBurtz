@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there
+## will add things later
 
 <!--
 **LordBurtz/LordBurtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/LordBurtz/LordBurtz/blob/main/header.png" alt="introduction banner LordBurtz">
