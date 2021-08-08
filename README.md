@@ -67,7 +67,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.gg/QZeNhWq6hv">
-  <img src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.U3nDXZ-8hrG-316cPJ-T3AHaHa%26pid%3DApi&f=1 />
+  <img src=https://img.shields.io/badge/https://github.com/LordBurtz/LordBurtz/blob/main/old_discord_fancy.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
  >
 </div>  
   
