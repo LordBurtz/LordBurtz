@@ -58,6 +58,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LordBurtz&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LordBurtz&show_icons=true&count_private=true&hide_border=true&theme=nord" align="center" /></div>  
 
 <br/>  
