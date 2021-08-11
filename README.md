@@ -1,7 +1,7 @@
 <img src="https://github.com/LordBurtz/LordBurtz/blob/main/header.png" alt="introduction banner LordBurtz">
   
 
-### <div align="center">I'm LordBurtz aka Fingolfin a student bored enough to code </div>  
+## <div align="center">I'm LordBurtz aka Fingolfin a student bored enough to code </div>  
   
 
 - I'm currently coding Spigot plugins  
