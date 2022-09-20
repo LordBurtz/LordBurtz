@@ -4,10 +4,10 @@
 ## <div align="center">I'm LordBurtz aka Fingolfin, a student bored enough to code </div>  
   
 
-- I'm currently coding Spigot plugins  
+- I'm enrolled at the TU Munich
   
 
-- Right now I'm learning C++ and Haskell  
+- Right now I'm learning Rust and Haskell  
   
 
 - As an Intermediate in Java and Python feel free to ask for help  
@@ -16,7 +16,7 @@
 - Fun Fact: I'm bad at designing visuals
 
 
-- Current maintainer of [PyRoom](https://github.com/LordBurtz/pyroom)
+- Current maintainer of [PyRoom](https://github.com/LordBurtz/pyroom) and [Lavrigon](https://github.com/LordBurtz/lavrigon)
   
 
 <br/>  
