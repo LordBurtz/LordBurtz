@@ -7,7 +7,7 @@
 - Currently studying Computer Science and Science of Theatre and Plays at LMU Munich
   
 
-- Proficient in Java, Kotlin, Swift, Python, Rust, Haskell
+- Proficient in Java, Kotlin, Swift, Python, Rust, Haskell, Scala
   
 
 - Always down for a game jam or hackathon, so feel free to reach out!  
