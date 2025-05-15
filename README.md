@@ -4,16 +4,16 @@
 ## <div align="center">I'm LordBurtz aka Fingolfin, a student bored enough to code </div>  
   
 
-- I'm enrolled at the TU Munich
+- Currently studying Computer Science and Science of Theatre and Plays at LMU Munich
   
 
-- Right now I'm learning Rust and Haskell  
+- Proficient in Java, Kotlin, Swift, Python, Rust, Haskell
   
 
-- As an Intermediate in Java and Python feel free to ask for help  
+- Always down for a game jam or hackathon, so feel free to reach out!  
   
 
-- Fun Fact: I'm bad at designing visuals
+- Not so fun fact: Graphic design is not my strength
 
 
 - Current maintainer of [PyRoom](https://github.com/LordBurtz/pyroom) and [Lavrigon](https://github.com/LordBurtz/lavrigon)
